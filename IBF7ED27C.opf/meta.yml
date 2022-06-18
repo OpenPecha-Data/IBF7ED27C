@@ -1,0 +1,37 @@
+id: IBF7ED27C
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T19:58:10.668699'
+last_modified: '2022-06-18T19:58:10.668717'
+parser: null
+source_metadata:
+  title: Hagiography of Brom ston Seng ge rgyal mtshan (fl. 1st half of 15th cent.)
+  author: སྟག་ཚང་ལོ་ཙཱ་བ་ཤེས་རབ་རིན་ཆེན།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2020-08-03);
+    revision in process, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།; This text was published by the Paltsek Research
+    Institute. (src)
+  - Text input:དཔལ་བརྩེགས་བོད་ཡིག་དཔེ་རྙིང་ཞིབ་འཇུག་ཁང་། (Lhasa) (eds)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:དཔལ་བརྩེགས་བོད་ཡིག་དཔེ་རྙིང་ཞིབ་འཇུག་ཁང་། (eds)
+  text_witnesses: https://sakyaresearch.org/sources/1687
+  bases:
+    631c:
+      title: Hagiography of Brom ston Seng ge rgyal mtshan (fl. 1st half of 15th cent.)
+      order: 1
+      base_file: 631c.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
